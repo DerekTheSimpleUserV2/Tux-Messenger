@@ -10,3 +10,7 @@ ________________________________________________________________________________
 # Manual
 
  git clone https://github.com/DerekTheSimpleUserV2/Tux-Messenger.git y cd Tux-Messenger y pon make
+
+# Manual Starting
+
+ Ponemos ./server y despues ./tuxmessenger y Chatea con Todos
